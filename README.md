@@ -41,4 +41,4 @@ This project helped me refresh my css skills.
 
 ### Useful resources
 
-- [FlexBox Froggy](https://flexboxfroggy.com/) - This is a simple yet an amazing game for anyone who wants to learn/refresh/improve flexbox. Highly recommended for improving your flexbox skills.
+- [FlexBox Froggy](https://flexboxfroggy.com/) - This is a simple yet an amazing game for anyone who wants to learn or refresh their flexbox knowledge.
